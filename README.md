@@ -1,10 +1,10 @@
 # MyStore - UTS Pemrograman Web 2
 # Identitas Mahasiswa
-  *Nama : Debby Permata Sari Manalu
-  NIM  : 25210026
-  Prodi: Komputerisasi Akuntansi
-  Mata Kuliah : Pemrograman Web 2
-  Dosen : Prima Sitompul
+- Nama : Debby Permata Sari Manalu
+- NIM  : 25210026
+- Prodi: Komputerisasi Akuntansi
+- Mata Kuliah : Pemrograman Web 2
+- Dosen : Prima Sitompul
 
 ## Deskripsi
 MyStore adalah aplikasi manajemen toko sederhana berbasis PHP Native dengan pola arsitektur Model-View-Controller (MVC) dan database MySQL.
