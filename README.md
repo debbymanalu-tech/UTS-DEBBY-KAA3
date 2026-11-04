@@ -1,6 +1,6 @@
 # MyStore - UTS Pemrograman Web 2
 # Identitas Mahasiswa
-#  Nama : Debby Permata Sari Manalu
+  *Nama : Debby Permata Sari Manalu
   NIM  : 25210026
   Prodi: Komputerisasi Akuntansi
   Mata Kuliah : Pemrograman Web 2
